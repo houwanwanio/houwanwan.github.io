@@ -5,9 +5,9 @@
   <subtitle>算法码上来</subtitle>
   <link href="/houwanwan.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://houwanwanio.github.io/"/>
   <updated>2021-01-19T14:08:59.000Z</updated>
-  <id>http://example.com/</id>
+  <id>https://houwanwanio.github.io/</id>
   
   <author>
     <name>侯万万</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>5W2H | 关于写博客的七点反思</title>
-    <link href="http://example.com/2020/01/14/5w2h-godweiyang/"/>
-    <id>http://example.com/2020/01/14/5w2h-godweiyang/</id>
+    <link href="https://houwanwanio.github.io/2020/01/14/5w2h-godweiyang/"/>
+    <id>https://houwanwanio.github.io/2020/01/14/5w2h-godweiyang/</id>
     <published>2020-01-14T07:27:31.000Z</published>
     <updated>2021-01-19T14:08:59.000Z</updated>
     
@@ -39,10 +39,10 @@
     
     </summary>
     
-      <category term="随笔" scheme="http://example.com/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="https://houwanwanio.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+      <category term="博客" scheme="https://houwanwanio.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
